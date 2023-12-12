@@ -1,6 +1,6 @@
 import "./styles.css";
-import axios from "axios";
-import Search from "./Search";
+//import axios from "axios";
+//import Search from "./Search";
 
 export default function App() {
   return (

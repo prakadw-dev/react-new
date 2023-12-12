@@ -11,5 +11,8 @@ root.render(
   <StrictMode>
     <App />
     <Search city="{city}" />
+    <div>
+      <a href="https://github.com/prakadw-dev/react-new">Github link</a>
+    </div>
   </StrictMode>
 );
